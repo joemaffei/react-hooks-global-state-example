@@ -1,2 +1,3 @@
-# react-hooks-global-state-example
-A simple example of how to manage state using React Hooks and Context.
+# Reducer-based State Management using React Hooks and Context
+
+A small experiment to show that, at a basic level, it is possible to use hooks as a replacement for Redux.
